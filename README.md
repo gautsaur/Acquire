@@ -1,4 +1,4 @@
-# 2019F_P2
+# ACQUIRE
 This is a digital version of a classic board game Acquire. This version of the game is created for the final assignment of class CS-3321 for Fall 2019, Idaho State University. 
 
 This game was written in C# using Unity 3D. This game structure follows Singleton model with OOP. For the project, the process model of choice was Agile Scrum.
